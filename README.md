@@ -1,2 +1,2 @@
 # VBA-Challenge
-VBA Homework
+The VBA challenges found here are example of data analysis work
